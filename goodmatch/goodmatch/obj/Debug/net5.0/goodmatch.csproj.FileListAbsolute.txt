@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\derivco\goodmatch\goodmatch\bin\Debug\net5.0\goodmatch.exe
+C:\Users\User\Desktop\derivco\goodmatch\goodmatch\bin\Debug\net5.0\goodmatch.deps.json
+C:\Users\User\Desktop\derivco\goodmatch\goodmatch\bin\Debug\net5.0\goodmatch.runtimeconfig.json
+C:\Users\User\Desktop\derivco\goodmatch\goodmatch\bin\Debug\net5.0\goodmatch.runtimeconfig.dev.json
+C:\Users\User\Desktop\derivco\goodmatch\goodmatch\bin\Debug\net5.0\goodmatch.dll
+C:\Users\User\Desktop\derivco\goodmatch\goodmatch\bin\Debug\net5.0\ref\goodmatch.dll
+C:\Users\User\Desktop\derivco\goodmatch\goodmatch\bin\Debug\net5.0\goodmatch.pdb
+C:\Users\User\Desktop\derivco\goodmatch\goodmatch\obj\Debug\net5.0\goodmatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\derivco\goodmatch\goodmatch\obj\Debug\net5.0\goodmatch.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\derivco\goodmatch\goodmatch\obj\Debug\net5.0\goodmatch.AssemblyInfo.cs
+C:\Users\User\Desktop\derivco\goodmatch\goodmatch\obj\Debug\net5.0\goodmatch.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\derivco\goodmatch\goodmatch\obj\Debug\net5.0\goodmatch.dll
+C:\Users\User\Desktop\derivco\goodmatch\goodmatch\obj\Debug\net5.0\ref\goodmatch.dll
+C:\Users\User\Desktop\derivco\goodmatch\goodmatch\obj\Debug\net5.0\goodmatch.pdb
+C:\Users\User\Desktop\derivco\goodmatch\goodmatch\obj\Debug\net5.0\goodmatch.genruntimeconfig.cache

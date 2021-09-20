@@ -1,0 +1,80 @@
+Nhlaka matches Ntoko 81%, good match
+Nhlaka matches Kimberly 129%, good match
+Nhlaka matches Trini 108%, good match
+Nhlaka matches Billy 117%, good match
+Jason matches Ntoko 62%
+Jason matches Kimberly 128%, good match
+Jason matches Trini 116%, good match
+Jason matches Billy 116%, good match
+Billy matches Ntoko 107%, good match
+Billy matches Kimberly 137%, good match
+Billy matches Trini 116%, good match
+Billy matches Billy 62%
+Tommy matches Ntoko 71%
+Tommy matches Kimberly 128%, good match
+Tommy matches Trini 116%, good match
+Tommy matches Billy 107%, good match
+Zack matches Ntoko 61%
+Zack matches Kimberly 109%, good match
+Zack matches Trini 115%, good match
+Zack matches Billy 115%, good match
+Billy matches Billy 62%
+Billy matches Kimberly 20%
+Billy matches Ntoko 71%
+Billy matches Trini 71%
+Jason matches Billy 71%
+Jason matches Kimberly 20%
+Jason matches Ntoko 80%, good match
+Jason matches Trini 71%
+Nhlaka matches Billy 81%, good match
+Nhlaka matches Kimberly 21%
+Nhlaka matches Ntoko 81%, good match
+Nhlaka matches Trini 63%
+Tommy matches Billy 53%
+Tommy matches Kimberly 20%
+Tommy matches Ntoko 71%
+Tommy matches Trini 62%
+Zack matches Billy 61%
+Zack matches Kimberly 91%, good match
+Zack matches Ntoko 61%
+Zack matches Trini 70%
+Billy matches Billy 62%
+Billy matches Kimberly 20%
+Billy matches Ntoko 71%
+Billy matches Trini 71%
+Jason matches Billy 71%
+Jason matches Kimberly 20%
+Jason matches Ntoko 80%, good match
+Jason matches Trini 71%
+Nhlaka matches Billy 81%, good match
+Nhlaka matches Kimberly 21%
+Nhlaka matches Ntoko 81%, good match
+Nhlaka matches Trini 63%
+Tommy matches Billy 53%
+Tommy matches Kimberly 20%
+Tommy matches Ntoko 71%
+Tommy matches Trini 62%
+Zack matches Billy 61%
+Zack matches Kimberly 91%, good match
+Zack matches Ntoko 61%
+Zack matches Trini 70%
+Billy matches Billy 62%
+Billy matches Kimberly 20%
+Billy matches Ntoko 71%
+Billy matches Trini 71%
+Jason matches Billy 71%
+Jason matches Kimberly 20%
+Jason matches Ntoko 80%, good match
+Jason matches Trini 71%
+Nhlaka matches Billy 81%, good match
+Nhlaka matches Kimberly 21%
+Nhlaka matches Ntoko 81%, good match
+Nhlaka matches Trini 63%
+Tommy matches Billy 53%
+Tommy matches Kimberly 20%
+Tommy matches Ntoko 71%
+Tommy matches Trini 62%
+Zack matches Billy 61%
+Zack matches Kimberly 91%, good match
+Zack matches Ntoko 61%
+Zack matches Trini 70%
