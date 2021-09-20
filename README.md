@@ -3,4 +3,4 @@
 GRADUATE ASSESSMENT : GOOD MATCH
 
 
-The C# solution within the folder goodmatch. 
+The C# solution is within the folder goodmatch. 
